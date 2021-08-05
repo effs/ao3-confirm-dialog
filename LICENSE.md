@@ -1,4 +1,4 @@
-[SOFTWARE NAME] Copyright (YEAR) (COPYRIGHT HOLDER(S)/AUTHOR(S))(“Licensor”)
+Copyright 2021 auska.works (“Licensor”)
 
 Hippocratic License Version Number: 2.1.
 
