@@ -16,7 +16,8 @@
         let isConfirmed = confirm('Are you sure you want to post this chapter?');
 
         if (isConfirmed) {
-            alert('Would have been submitted');
+            // Onward to normal processing!
+            return;
         }
 
         // Do nothing if canceled
@@ -45,7 +46,6 @@
     let currentViewPostButton = newChapterViewPostButton || previewViewPostButton || draftViewPostButton || editViewPostButton;
 
     if (currentViewPostButton) {
-console.log({currentViewPostButton});
         makePostButtonLookDangerous(currentViewPostButton);
         addConfirmationDialogBeforePosting(currentViewPostButton);
     }
