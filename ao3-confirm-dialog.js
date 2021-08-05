@@ -1,12 +1,14 @@
 // ==UserScript==
-// @name         AO3 Post Confirmation Dialog
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @name         AO3 Button Click Confirmation Dialog
+// @namespace    https://auska.works/
+// @version      3
 // @description  Adds a confirmation dialog before posting a chapter on AO3.
-// @author       https://github.com/effs
-// @match        https://archiveofourown.org/works/*
+// @author       Auska (https://auska.works)
+// @copyright    2021, Auska (https://auska.works)
+// @license      The Hippocratic License v. 2.1; https://firstdonoharm.dev/version/2/1/license/
 // @icon         https://www.google.com/s2/favicons?domain=archiveofourown.org
 // @grant        none
+// @match        https://archiveofourown.org/works/*
 // ==/UserScript==
 
 (function() {
