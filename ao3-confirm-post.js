@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Adds a confirmation dialog before posting a chapter on AO3.
 // @author       https://github.com/effs
-// @match        https://archiveofourown.org/works/*/chapters/*
+// @match        https://archiveofourown.org/works/*
 // @icon         https://www.google.com/s2/favicons?domain=archiveofourown.org
 // @grant        none
 // ==/UserScript==
